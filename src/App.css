@@ -1,0 +1,11 @@
+.App {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  width: 100vw;
+  -webkit-text-stroke-width: thin;
+}
+
+.btn {
+  justify-self: center;
+}
